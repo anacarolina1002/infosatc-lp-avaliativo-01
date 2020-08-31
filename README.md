@@ -21,10 +21,10 @@ Aluna: Ana Carolina Machado
 <br><br>
 <tr>
 <td>
-<a href ="https://www.instagram.com/infosatc/"><img src = "https://user-images.githubusercontent.com/69262009/91757733-333d2d80-eba5-11ea-96b4-6f6ae1b8f600.png"></a href>
+<a href ="https://www.instagram.com/infosatc/"><img src = "https://user-images.githubusercontent.com/69262009/91757982-9dee6900-eba5-11ea-9d26-22fd626cafbe.png" weidth = "30" height = "30"></a href>
 </td>
 <td>
-<a href ="https://www.instagram.com/satceducacao/"><img src = "https://user-images.githubusercontent.com/69262009/91757659-143e9b80-eba5-11ea-9892-7194b2fa2404.png"></a href>
+<a href ="https://www.instagram.com/satceducacao/"><img src = "https://user-images.githubusercontent.com/69262009/91757659-143e9b80-eba5-11ea-9892-7194b2fa2404.png" weidth = "30" height = "30"></a href>
 </td>
 </tr>
 </table>
