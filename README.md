@@ -23,10 +23,10 @@ Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técn
 <td>
 <a href ="https://www.instagram.com/francinecardoson/">Prof: Francine Cardoso</a href>
 </td>
-</tr>
-<br>
-<br>
+<td>
 <a href ="https://web.satc.edu.br/curso-tecnicoinformatica/">Curso de Informática</a href>
+</td>
+</tr>
 <br>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade1.py> Exercício 07</a href>
 <br>
