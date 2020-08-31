@@ -6,8 +6,8 @@ Programação em Python
 
 <a href = https://web.satc.edu.br><img src  = "satc.jpg" width ="400" height ="200" align = "left"></a href>
 
-Link para os arquivos da atividade:
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01.git>
+Link para os arquivos da atividade:
 </a href>
 
 
