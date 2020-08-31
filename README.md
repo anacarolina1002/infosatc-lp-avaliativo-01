@@ -2,11 +2,11 @@
 <HTML>
 <HEAD>
 </HEAD>
-<BODY alink = #006400 >
+<BODY>
 <a href  = "https://web.satc.edu.br">
 <img src = https://user-images.githubusercontent.com/69262009/91752902-6bd90900-eb9d-11ea-8ec9-82fddd539157.png width ="300" height ="150" align = "left">
 </a href>
-<font face = "candara" size = "8" color = "#006400">
+<font face = "candara" size = "10" color = "#006400">
 <br>
 Atividade Avaliativa de Linguagem de Programação
 </font>
@@ -16,7 +16,7 @@ Atividade Avaliativa de Linguagem de Programação
 <font face = "candara" size = "5" color = "#006400">
 Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técnico de Informática SATC, 2020
 <br><br>
-<a href ="https://www.instagram.com/anacarolinatyp/"  >Aluna: Ana Carolina Machado</a href> 
+<a href ="https://www.instagram.com/anacarolinatyp/"> <font color = "#006400">Aluna: Ana Carolina Machado</font></a href> 
 <br>
 <a href ="https://www.instagram.com/francinecardoson/">Prof: Francine Cardoso</a href>
 <br>
