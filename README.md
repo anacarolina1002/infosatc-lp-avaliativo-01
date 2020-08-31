@@ -1,15 +1,21 @@
 # infosatc-lp-avaliativo-01
-Atividade avaliativa 01 da disciplina de Linguagem de Programação do curso técnico de Informática SATC 2020
-Ana Carolina, 2020
-Curso Técnico de Informática, Linguagem de Programação
-Programação em Python
-
-<a href = https://web.satc.edu.br> <img src  = "satc.jpg" width ="400" height ="200" align = "left">
-</a href>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY bgcolor = "#FFFFFF">
+<img src   = "satc.jpg" width ="400" height ="200" align = "left">
+<font face = "candara" size = "8" color = "#006400">
 <br>
-<a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01.git>
-Link para os arquivos da atividade:
-</a href>
+Atividade Avaliativa de Linguagem de Programação
+</font>
+<br>
+<hr size = "2" color = "#556B2F">
+<p align = "justify">
+<font face = "candara" size = "5" color = "#006400">
+Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técnico de Informática SATC, 2020
+<br><br>
 
-
+</BODY>
+</p>
+</HTML>
 
