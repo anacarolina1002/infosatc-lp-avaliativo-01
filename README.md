@@ -29,32 +29,41 @@ Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técn
 </td>
 </tr>
 <br>
+<tr>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade1.py> Exercício 07</a href>
-<br>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade2.py> Exercício 10</a href>
-<br>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade3.py> Exercício 13</a href>
-<br>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade4.py> Exercício 18</a href>
-<br>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade5.py> Exercício 20</a href>
-<br>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade6.py> Exercício 22</a href>
-<br>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade7.py> Exercício 24</a href>
-<br>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade8.py> Exercício 26</a href>
-<br>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade9.py> Exercício 27</a href>
-<br>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade10.py> Exercício 29</a href>
-<br>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade11.py> Exercício 30</a href>
-<br>
-
-
-
-
+</td>
+</tr>
 
 </font>
 
