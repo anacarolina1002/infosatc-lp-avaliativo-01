@@ -10,7 +10,7 @@
 <br>
 Atividade Avaliativa de Linguagem de Programação
 </font>
-<table cellspacing = 10>
+<table cellspacing = 0>
 <br>
 <hr size = "2" color = "#556B2F">
 <p align = "justify">
