@@ -16,7 +16,7 @@ Atividade Avaliativa de Linguagem de Programação
 <font face = "candara" size = "5" color = "#006400">
 Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técnico de Informática SATC, 2020
 <br><br>
-<a href ="https://www.instagram.com/anacarolinatyp/"> <font color = "#006400">Aluna: Ana Carolina Machado</font></a href> 
+<font color = "#006400"><a href ="https://www.instagram.com/anacarolinatyp/">Aluna: Ana Carolina Machado</font></a href> 
 <br>
 <a href ="https://www.instagram.com/francinecardoson/">Prof: Francine Cardoso</a href>
 <br>
