@@ -19,8 +19,13 @@ Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técn
 Aluna: Ana Carolina Machado
 <br><br>
 <a href ="https://www.instagram.com/satceducacao/"><img src = "https://user-images.githubusercontent.com/69262009/91758844-025df800-eba7-11ea-9103-d8af361bef2b.png" style="max-width:100%;"></a href>
+
 <a href ="https://twitter.com/satceducacao"><img src = "https://user-images.githubusercontent.com/69262009/91758839-00943480-eba7-11ea-8250-bad85225e223.png" style="max-width:100%;"></a href> 
-<a href ="https://www.facebook.com/satceducacao"><img src = "https://user-images.githubusercontent.com/69262009/91758830-feca7100-eba6-11ea-95f9-3a8583c373d4.png"></a href> 
+
+<a href ="https://www.facebook.com/satceducacao"><img src = "https://user-images.githubusercontent.com/69262009/91758830-feca7100-eba6-11ea-95f9-3a8583c373d4.png"></a href>
+
+<a href ="https://www.linkedin.com/school/2480302"><img src = "https://user-images.githubusercontent.com/69262009/91758823-fd00ad80-eba6-11ea-95df-9d2ae62a17ac.png"></a href>
+
 <a href ="https://www.youtube.com/user/satcweb"><img src = "https://user-images.githubusercontent.com/69262009/91758818-fa9e5380-eba6-11ea-99bf-900fe8b9ee09.png" style="max-width:100%;"></a href> 
 
 
