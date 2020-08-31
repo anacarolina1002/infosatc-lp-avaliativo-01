@@ -10,7 +10,6 @@
 <br>
 Atividade Avaliativa de Linguagem de Programação
 </font>
-<table>
 <br>
 <hr size = "2" color = "#556B2F">
 <p align = "justify">
@@ -19,15 +18,8 @@ Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técn
 <br>
 Aluna: Ana Carolina Machado
 <br><br>
-<tr>
-<td>
 <a href ="https://www.instagram.com/infosatc/"><img src = "https://user-images.githubusercontent.com/69262009/91757982-9dee6900-eba5-11ea-9d26-22fd626cafbe.png" weidth = "30" height = "30"></a href>
-</td>
-<td>
 <a href ="https://www.instagram.com/satceducacao/"><img src = "https://user-images.githubusercontent.com/69262009/91757659-143e9b80-eba5-11ea-9892-7194b2fa2404.png" weidth = "30" height = "30"></a href>
-</td>
-</tr>
-</table>
 <br>
 <table cellspacing = 7>
 <tr>
