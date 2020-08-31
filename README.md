@@ -3,7 +3,7 @@
 <HEAD>
 </HEAD>
 <BODY>
-<img src = https://user-images.githubusercontent.com/69262009/91752902-6bd90900-eb9d-11ea-8ec9-82fddd539157.png>
+<a href = "https://web.satc.edu.br"><img src = https://user-images.githubusercontent.com/69262009/91752902-6bd90900-eb9d-11ea-8ec9-82fddd539157.png></a href>
 <font face = "candara" size = "8" color = "#006400">
 <br>
 Atividade Avaliativa de Linguagem de Programação
