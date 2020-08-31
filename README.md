@@ -58,8 +58,8 @@ Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técn
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade11.py> Exercício 30</a href>
 </td>
 </tr>
-Por: Ana Carolina Machado.
 </table>
+Por: Ana Carolina Machado.
 </font>
 </BODY>
 </p>
