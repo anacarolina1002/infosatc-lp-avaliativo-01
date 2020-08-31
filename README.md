@@ -16,6 +16,7 @@ Atividade Avaliativa de Linguagem de Programação
 <font face = "candara" size = "5" color = "#006400">
 Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técnico de Informática SATC, 2020
 <br><br>
+<a href color = "#556B2F" >
 <a href ="https://www.instagram.com/anacarolinatyp/"  >Aluna: Ana Carolina Machado</a href> 
 <br>
 <a href ="https://www.instagram.com/francinecardoson/">Prof: Francine Cardoso</a href>
@@ -43,6 +44,7 @@ Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técn
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade10.py> Exercício 29</a href>
 <br>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade11.py> Exercício 30</a href>
+</a href>
 <br>
 
 
