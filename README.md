@@ -11,9 +11,6 @@
 Atividade Avaliativa de Linguagem de Programação
 </font>
 <br>
-<ul align = left>
-<li><p>
-Linguagem: Python
 </li></p>
 <a href ="https://www.instagram.com/satceducacao/"><img src = "https://user-images.githubusercontent.com/69262009/91758844-025df800-eba7-11ea-9103-d8af361bef2b.png" style="max-width:100%;"></a href>
 <a href ="https://twitter.com/satceducacao"><img src = "https://user-images.githubusercontent.com/69262009/91758839-00943480-eba7-11ea-8250-bad85225e223.png" style="max-width:100%;"></a href> 
