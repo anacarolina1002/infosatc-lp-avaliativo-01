@@ -25,9 +25,9 @@ Aluna: Ana Carolina Machado
 <li><p>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade1.py> Exercício 07</a href>
 </li></p>
-<li><p>
+<li>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade2.py> Exercício 10</a href>
-</li></p>
+</li>
 <li><p>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade3.py> Exercício 13</a href>
 </li></p>
