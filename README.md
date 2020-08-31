@@ -22,6 +22,7 @@ Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técn
 <br>
 Aluna: Ana Carolina Machado
 <br><br>
+<table cellspacing = 4>
 <tr><td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade1.py> Exercício 07</a href>
 </td>
@@ -57,6 +58,7 @@ Aluna: Ana Carolina Machado
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade11.py> Exercício 32</a href>
 </td></tr>
 
+</table>
 </font>
 </BODY>
 </p>
