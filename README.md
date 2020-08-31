@@ -18,7 +18,7 @@ Atividade Avaliativa de Linguagem de Programação
 <hr size = "2" color = "#556B2F">
 <p align = "justify">
 <font face = "candara" size = "5" color = "#006400">
-Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técnico de Informática SATC, 2020
+Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técnico de Informática SATC, 2020, Atividades com Python.
 <br>
 <br><br>
 <table cellspacing = 4 align = center>
