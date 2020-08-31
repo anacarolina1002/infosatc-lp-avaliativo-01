@@ -3,7 +3,7 @@
 <HEAD>
 </HEAD>
 <BODY>
-<img src=”satc.jpg”>
+![satc](https://user-images.githubusercontent.com/69262009/91752722-2583aa00-eb9d-11ea-8e73-2e7a47a62c41.jpg)
 <font face = "candara" size = "8" color = "#006400">
 <br>
 Atividade Avaliativa de Linguagem de Programação
