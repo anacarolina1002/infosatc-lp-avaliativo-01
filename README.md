@@ -4,9 +4,9 @@ Ana Carolina, 2020
 Curso Técnico de Informática, Linguagem de Programação
 Programação em Python
 
-<img src   = "satc.png" width ="400" height ="200" align = "left">
+<img src   = "satc.jpg" width ="400" height ="200" align = "left">
 Link para os arquivos da atividade:
-<a href https://github.com/anacarolina1002/infosatc-lp-avaliativo-01.git></a href>
+<a href //github.com/anacarolina1002/infosatc-lp-avaliativo-01.git></a href>
 
 
 
