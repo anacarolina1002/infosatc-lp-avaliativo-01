@@ -22,7 +22,7 @@ Atividade avaliativa 01 da disciplina de Linguagem de Programação, Curso técn
 <br>
 Aluna: Ana Carolina Machado
 <br><br>
-<table cellspacing = 4>
+<table cellspacing = 4 align = center>
 <tr><td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade1.py> Exercício 07</a href>
 </td>
@@ -38,22 +38,25 @@ Aluna: Ana Carolina Machado
 </tr>
 <tr><td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade5.py> Exercício 20</a href>
-</td></tr>
-<tr><td>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade6.py> Exercício 22</a href>
-</td></tr>
-<tr><td>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade7.py> Exercício 24</a href>
-</td></tr>
-<tr><td>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade8.py> Exercício 26</a href>
-</td></tr>
-<tr><td>
+</td>
+</tr>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade9.py> Exercício 27</a href>
-</td></tr>
-<tr><td>
+</td>
+<td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade10.py> Exercício 29</a href>
-</td></tr>
+</td>
+</tr>
+
 <tr><td>
 <a href = https://github.com/anacarolina1002/infosatc-lp-avaliativo-01/blob/master/atividade11.py> Exercício 32</a href>
 </td></tr>
