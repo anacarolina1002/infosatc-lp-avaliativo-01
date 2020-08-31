@@ -2,8 +2,8 @@
 <HTML>
 <HEAD>
 </HEAD>
-<BODY bgcolor = "#FFFFFF">
-![](satc.jpg)
+<BODY>
+<img src=”satc.jpg”>
 <font face = "candara" size = "8" color = "#006400">
 <br>
 Atividade Avaliativa de Linguagem de Programação
