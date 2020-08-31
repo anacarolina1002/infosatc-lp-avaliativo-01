@@ -3,7 +3,7 @@
 <HEAD>
 </HEAD>
 <BODY bgcolor = "#FFFFFF">
-<img src   = "satc.jpg" width ="400" height ="200" align = "left">
+![](satc.jpg)
 <font face = "candara" size = "8" color = "#006400">
 <br>
 Atividade Avaliativa de Linguagem de Programação
